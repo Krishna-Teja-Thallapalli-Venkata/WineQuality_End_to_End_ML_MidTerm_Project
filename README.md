@@ -1,13 +1,12 @@
 # WineQuality_End_to_End_ML_MidTerm_Project
 ## Problem
-Predict the quality (score 0-10) of red wine from physicochemical tests. This is a regression problem that demonstrates EDA, feature engineering, model selection, hyperparameter tuning, model serialization, containerized serving, and basic reproducibility.
+Predict the quality (score 0-10) of red wine from physicochemical tests. This is a regression problem that demonstrates EDA, feature engineering, model selection, hyperparameter tuning, model serialization, and containerized serving.
 
 
 ## Badges
 
 [![UCI Dataset](https://img.shields.io/badge/dataset-UCI%20Wine%20Quality-blue)](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 [![Python](https://img.shields.io/badge/python-3.10%2B-green)]()
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
 
 ---
 
